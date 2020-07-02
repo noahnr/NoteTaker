@@ -12,5 +12,14 @@
     "express": "^4.17.1"
   },
   "keywords": [],
-  "description": ""
+  "description": "This application allows the user to add, create, and delete notes with ease from the  browser!",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahnr/NoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noahnr/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/noahnr/NoteTaker#readme"
 }
